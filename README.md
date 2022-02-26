@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **I am a passionate coder**
 
-<img src="https://giphy.com/gifs/CapgeminiIndia-coding-techchallenge2020-techchallenge-u2pmTWUi0MXjyrMaVj">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/MuhamedYasinMan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muhamedyasinman" height="30" width="40" /></a>
