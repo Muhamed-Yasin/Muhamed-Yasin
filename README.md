@@ -12,7 +12,7 @@
 - 📫 How to reach me **yasinmanath@gmail.com**
 
 - ⚡ Fun fact **I am a passionate coder...although I don't look like one**
--<i class="fa-solid fa-circle-info"></i> Find more about me via my portfolio website.
+- Find more about me via my portfolio website.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
