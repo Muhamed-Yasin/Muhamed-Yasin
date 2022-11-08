@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhamedyasinman" target="blank"><img src="https://img.shields.io/twitter/follow/muhamedyasinman?logo=twitter&style=for-the-badge" alt="muhamedyasinman" /></a> </p>
 
-- 🌱 I’m currently learning **Python,C,Css,Javascript**
+- 🌱 I’m currently learning **Bootstrap,Google Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Web dev projects using vanilla js**
 
