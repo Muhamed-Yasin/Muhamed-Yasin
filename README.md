@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yasinmanath@gmail.com**
 
-- ⚡ Fun fact **I am a passionate coder**
+- ⚡ Fun fact **I am a passionate coder...although I don't look like one**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
