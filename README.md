@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <h1 align="center">Hi 👋, I'm Muhamed Yasin</h1>
 <h3 align="center">Second year CSE student @iiitkottayam</h3>
 
@@ -12,7 +13,7 @@
 - 📫 How to reach me **yasinmanath@gmail.com**
 
 - ⚡ Fun fact **I am a passionate coder...although I don't look like one**
-- Find more about me via my portfolio website.
+- <i class="fa-solid fa-circle-info"></i>Find more about me via my portfolio website.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
