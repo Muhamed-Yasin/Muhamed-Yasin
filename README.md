@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhamed Yasin</h1>
-<h3 align="center">First year CSE student @iiitkottayam</h3>
+<h3 align="center">Second year CSE student @iiitkottayam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-yasin&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-yasin" /> </p>
 
