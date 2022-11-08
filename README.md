@@ -10,10 +10,10 @@
 
 - 👯 I’m looking to collaborate on **Web dev projects using vanilla js**
 
-- 📫 How to reach me **yasinmanath@gmail.com**
+- 📫 You can reach me @ **yasinmanath@gmail.com**
 
 - ⚡ Fun fact **I am a passionate coder...although I don't look like one**
-- <i class="fa-solid fa-circle-info"></i>Find more about me via my portfolio website.
+- Find more about me via <a href="http://portfolio-muhamed-yasin.vercel.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
