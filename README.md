@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<div class="container-fluid">
 <h1 align="center">Hi 👋, I'm Muhamed Yasin</h1>
 <h3 align="center">Second year CSE student @iiitkottayam</h3>
 
@@ -36,3 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhamed-yasin&show_icons=true&locale=en" alt="muhamed-yasin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamed-yasin&" alt="muhamed-yasin" /></p>
+</div>
