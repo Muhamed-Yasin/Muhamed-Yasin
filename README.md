@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Firebase,REST API**
 
-- 👯 I’m looking to collaborate on **Flutter/Dart projects**
+- 👯 I’m looking to collaborate on **any interesting projects beacuse I love learning new technologies**
 
 - 📫 You can reach me @ **yasinmanath@gmail.com**
 
