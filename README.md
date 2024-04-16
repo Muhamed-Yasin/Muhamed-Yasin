@@ -15,7 +15,7 @@
 - 📫 You can reach me @ **yasinmanath@gmail.com**
 
 - ⚡ Fun fact **I am a passionate coder...although I don't look like one**
-- Find more about me via <a href="http://portfolio-muhamed-yasin.vercel.app/">My Portfolio</a>
+<!-- Find more about me via <a href="http://portfolio-muhamed-yasin.vercel.app/">My Portfolio</a>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
