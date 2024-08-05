@@ -2,13 +2,13 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
 <div class="container-fluid">
 <h1 align="center">Hi 👋, I'm Muhamed Yasin</h1>
-<h3 align="center">Third year CSE student @iiitkottayam</h3>
+<h3 align="center">Final year CSE student @iiitkottayam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-yasin&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-yasin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/muhamedyasinman" target="blank"><img src="https://img.shields.io/twitter/follow/muhamedyasinman?logo=twitter&style=for-the-badge" alt="muhamedyasinman" /></a> </p>
 
-- 🌱 I’m currently learning **Firebase,REST API**
+- 🌱 I’m currently learning **Nextjs**
 
 - 👯 I’m looking to collaborate on **any interesting projects beacuse I love learning new technologies**
 
