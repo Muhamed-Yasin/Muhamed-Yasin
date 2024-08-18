@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/muhamedyasinman" target="blank"><img src="https://img.shields.io/twitter/follow/muhamedyasinman?logo=twitter&style=for-the-badge" alt="muhamedyasinman" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs**
+- 🌱 Constantly seeking new learning experiences and opportunities for growth.
 
 - 👯 I’m looking to collaborate on **any interesting projects beacuse I love learning new technologies**
 
