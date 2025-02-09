@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **any interesting projects because I love solving interesting problems**
 
-- 📫 How to reach me <a href="mailto:yasinmanath@gmail.com" target="_blank">Gmail</a>
+- 📫 How to reach me <a href="mailto:yasinmanath@gmail.com" target="_blank">yasinmanath@gmail.com</a>
 
-- 👨‍💻 All of my projects are available at <a href="https://muhamed-yasin.github.io/#/" target="_blank">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://muhamed-yasin.github.io/#/" target="_blank">my portfolio website</a>
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/179X-7W6NQtxfZbql-YtCjbC1UHBBO7EU/view?usp=sharing" target="_blank">My Resume</a>
+- 📄 Know about my experiences through<a href="https://drive.google.com/file/d/179X-7W6NQtxfZbql-YtCjbC1UHBBO7EU/view?usp=sharing" target="_blank">my resume</a>
 
 - ⚡ Fun fact **I have been part of a Guinness World Record**
 
