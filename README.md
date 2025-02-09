@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhamed-yasin&label=Profile%20views&color=0e75b6&style=flat" alt="muhamed-yasin" /> </p>
 
-- 👯 I’m looking to collaborate on **any interesting projects because I love learning new technologies**
+- 👯 I’m looking to collaborate on **any interesting projects because I love solving interesting problems**
 
-- 👨‍💻 All of my projects are available at [https://muhamed-yasin.github.io/#/](https://muhamed-yasin.github.io/#/)
+- 📫 How to reach me <a href="mailto:yasinmanath@gmail.com" target="_blank">Gmail</a>
 
-- 📫 How to reach me **yasinmanath@gmail.com**
+- 👨‍💻 All of my projects are available at <a href="https://muhamed-yasin.github.io/#/" target="_blank">Portfolio</a>
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Q8IWN7nWEplrV_5EoFQIH0t6jQC_WV37/view?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/179X-7W6NQtxfZbql-YtCjbC1UHBBO7EU/view?usp=sharing" target="_blank">My Resume</a>
 
-- ⚡ Fun fact **I am a passionate coder...although I don't look like one**
+- ⚡ Fun fact **I have been part of a Guinness World Record**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
