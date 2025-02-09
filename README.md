@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yasinmanath@gmail.com**
 
-- 📄 Know about my experiences **muhamed-yasin.github.io**
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1Q8IWN7nWEplrV_5EoFQIH0t6jQC_WV37/view?usp=sharing)
 
 - ⚡ Fun fact **I am a passionate coder...although I don't look like one**
 
