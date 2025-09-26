@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **any interesting projects because I love learning new technologies**
 
-- 👨‍💻 All of my projects are available at [https://muhamed-yasin.github.io/#/](https://muhamed-yasin.github.io/#/)
+- 👨‍💻 My portfolio is available at [https://yasin.is-a.dev/#/](https://yasin.is-a.dev/#/)
 
 - 💬 Ask me about **react, python and football**
 
