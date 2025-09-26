@@ -7,7 +7,7 @@
 
 - 👨‍💻 My portfolio is available at [https://yasin.is-a.dev/#/](https://yasin.is-a.dev/#/)
 
-- 💬 Ask me about **react, python and football**
+- 💬 Ask me about **Software dev, ML and football**
 
 - 📫 How to reach me **yasinmanath@gmail.com**
 
